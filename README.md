@@ -55,4 +55,3 @@ Studied French market and prospected hotel & school sectors.
 - Market Expansion  
 - Cold Calling  
 - Market Research  
-# CV
